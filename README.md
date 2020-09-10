@@ -1,11 +1,16 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" height="270">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" >
 
 #### Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> I'm **🅲🅷🅰🅽🅳🅰🅽**!
 **𝒢𝓁𝒶𝒹 𝓉𝑜 𝓈𝑒𝑒 𝓎𝑜𝓊 𝒽𝑒𝓇𝑒!** :star_struck: :wave:
-- 💻 ɪ'ᴍ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ.
-- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴡɪᴛʜ ꜱᴋɪʟʟ.
-- 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ.
-- 🎯 ɢᴏᴀʟꜱ:
+
+💻 ɪ'ᴍ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ.
+
+🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴡɪᴛʜ ꜱᴋɪʟʟ.
+
+👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ.
+
+🎯 ɢᴏᴀʟꜱ:
+
 >The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
