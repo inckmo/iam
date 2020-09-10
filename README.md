@@ -7,7 +7,12 @@
 - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ.
 - 🎯 ɢᴏᴀʟꜱ:
 
+<img align="centre" alt="inckmo's github stats" width="46%" height="220px" src="https://github-readme-stats.vercel.app/api?username=inckmo&show_icons=true&show_icons=true&title_color=FFFFFF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+
 ##### The green dots on my [**GitHub** profile](https://github.com/vinitshahdeo?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/vinit.shahdeo/) works back in 2009 to becoming [Software Engineer at **Postman**](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) :dart: in 2019. Outside of [GitHub](https://github.com/vinitshahdeo/), catch me for a quick best of 3 in the **badminton** :badminton: court! You can **find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**. 
+
+
 Currently I'm **looking for contributions** for following projects:
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
@@ -24,6 +29,9 @@ Currently I'm **looking for contributions** for following projects:
 
 ---
 
+
+  
+<img align='left' width="46%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inckmo&layout=compact&theme=tokyonight" />
 
 <!--
 **vinitshahdeo/vinitshahdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
