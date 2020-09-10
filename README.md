@@ -8,9 +8,15 @@
 - 🎯 ɢᴏᴀʟꜱ:
 >The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+
+
+<img align="centre" alt="inckmo's github stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=inckmo&show_icons=true&show_icons=true&title_color=FFFFFF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+---
+
 ##### The green dots on my [**GitHub** profile](https://github.com/vinitshahdeo?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/vinit.shahdeo/) works back in 2009 to becoming [Software Engineer at **Postman**](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) :dart: in 2019. Outside of [GitHub](https://github.com/vinitshahdeo/), catch me for a quick best of 3 in the **badminton** :badminton: court! You can **find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**. 
 
 <!--
@@ -34,7 +40,6 @@ Currently I'm **looking for contributions** for following projects:
 
 
   
-<img align='left' width="46%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inckmo&layout=compact&theme=tokyonight" />
 
 <!--
 **vinitshahdeo/vinitshahdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -50,3 +55,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!-- NA -->
+
+<img align='centre' width="46%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inckmo&layout=compact&theme=tokyonight" />
