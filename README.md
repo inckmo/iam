@@ -18,7 +18,7 @@
 ---
 
 
-<img align="centre" alt="inckmo's github stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=inckmo&show_icons=true&show_icons=true&title_color=FFFFFF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img align="centre" alt="inckmo's github stats" width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=inckmo&show_icons=true&show_icons=true&title_color=FFFFFF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 ---
 
@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <!-- NA -->
 
-<img align='centre' width="46%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inckmo&layout=compact&theme=tokyonight" />
+<img align='centre' width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inckmo&layout=compact&theme=tokyonight" />
