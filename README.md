@@ -28,7 +28,7 @@
   
 
 <!--
-**vinitshahdeo/vinitshahdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**inckmo/inckmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=inckmo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Github Streak] (http://github-readme-streak-stats.herokuapp.com?user=inckmo&theme=tokyonight&background=ffffff00&hide_border=false) ] (https://github.com/inckmo)
+![](https://komarev.com/ghpvc/?username=inckmo)
