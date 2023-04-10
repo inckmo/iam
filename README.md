@@ -41,9 +41,6 @@
 
 
 
+![Profile views](https://gpvc.arturio.dev/inckmo)  <img src="https://img.shields.io/github/followers/inckmo?label=Follow" style=" float:left, margin-right:10px" />
+
 <img align='centre' width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inckmo&layout=compact&theme=tokyonight" />
-
->The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
-
----
-
