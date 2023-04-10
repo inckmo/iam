@@ -18,10 +18,10 @@
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🌐 &nbsp; Android | flutter | HTML5 | CSS/SCSS | JavaScript | Tailwindcss 
+- 🛢 &nbsp; MySQL | Firebase | Laragon | WSL2 
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
 
 ### 🎯 ɢᴏᴀʟꜱ:
 
